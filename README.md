@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sarthakvs/sarthakvs/main/coding.gif" width="550" height="320" />
 
 
-- 🌱 I’m currently learning **React and Async JavaScript**
+- 🌱 I’m currently learning **GraphQL and Cloud**
 
 - 👨‍💻 All of my projects are available at [github.com/sarthakvs](github.com/sarthakvs)
 
